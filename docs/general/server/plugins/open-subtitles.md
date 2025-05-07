@@ -1,5 +1,5 @@
 ---
-uid: server-plugins-open-subtitles
+uid: enjoy_jer
 title: Open Subtitles
 ---
 
